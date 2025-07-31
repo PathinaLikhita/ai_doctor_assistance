@@ -1,0 +1,11 @@
+Flask
+Flask-WTF
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+pandas
+numpy
+scikit-learn
+joblib
+email-validator
+python-dotenv
